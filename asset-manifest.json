@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/26_09_2025_recordando_b/static/css/main.f855e6bc.css",
+    "main.js": "/26_09_2025_recordando_b/static/js/main.83315cc0.js",
+    "static/js/453.6a8a80bd.chunk.js": "/26_09_2025_recordando_b/static/js/453.6a8a80bd.chunk.js",
+    "static/media/logo.svg": "/26_09_2025_recordando_b/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/26_09_2025_recordando_b/index.html",
+    "main.f855e6bc.css.map": "/26_09_2025_recordando_b/static/css/main.f855e6bc.css.map",
+    "main.83315cc0.js.map": "/26_09_2025_recordando_b/static/js/main.83315cc0.js.map",
+    "453.6a8a80bd.chunk.js.map": "/26_09_2025_recordando_b/static/js/453.6a8a80bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.83315cc0.js"
+  ]
+}
